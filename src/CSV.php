@@ -29,7 +29,7 @@ Class CSV
     * Write CSV
     *
     * Takes data and writes it out to CSV.  The is generic and used whenever
-    * we need to generate a CSV to helix sleep.
+    * we need to generate a CSV.
     *
     * @param array $data Data to be encoded to CSV
     * @param string $fileName The file name to write the CSV out to
